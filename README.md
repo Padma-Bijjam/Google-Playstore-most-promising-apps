@@ -10,3 +10,6 @@ tools used:
     4. Matplotlib (Data visualization)
     5. Seaborn (Data visualization)
     6. Plotly (Data visualization)
+    
+Note: Due to some encoding issues, The Google_Playstore_Analysis(EDA).ipynb file may not be open directly from Github.
+      Then you can dowload it and open in any Notebook like Jupyter Notebook.
